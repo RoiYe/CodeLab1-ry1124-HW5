@@ -1,0 +1,13 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x---------------------*---x-*x
+x^---------^--------------x--x
+x--xxxxxxxxxxxxxx--xxxx---x--x
+x-----x--------x---x---------x
+x-----x----------------------x
+x--x--xxxxxx*----------xxxx--x
+x--x-------xxxxxxxxxx--x--x--x
+x*-x-----P-x-----------x--x--x
+xxxxxx----xxx--*------xx--x--x
+x*------xxxxxxxxx------x-----x
+x-------x------------xxx--*--x
+xxxxxxxxxxxxxxx----xxxxxxxxxxx
